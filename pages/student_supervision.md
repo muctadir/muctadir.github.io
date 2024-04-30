@@ -10,9 +10,11 @@ I am always looking for motivated master students interested in the topic of Mod
 
 ### Current Students
 
-- (Masters, 2023) Judith Houdijk. [Consistency in modeling language evolution](https://drive.google.com/file/d/1TaId4wwn7MPQpnM28f4yBqwg7ssuytZ_) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/) and [Andreas Wortmann](https://awortmann.github.io/)_
+- (Masters, 2024) Yanyifan Liao. [Consistency management of a brewery digital twin](/files/assignments/2024_brewery_dt_consistency.pdf) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
 
 ### Completed projects
+
+- (Masters, 2023) Judith Houdijk. [Taxonomizing and Analyzing Change Impact in Language Oriented Programming](https://research.tue.nl/en/studentTheses/taxonomizing-and-analyzing-change-impact-in-language-oriented-pro) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/) and [Andreas Wortmann](https://awortmann.github.io/)_
 
 - (Masters, 2023) Xingyu Liu. [Digital twin based anomaly detection of Turtle soccer robots](https://research.tue.nl/en/studentTheses/digital-twin-based-anomaly-detection-of-turtle-soccer-robots). _Co-supervised with [Mark van den Brand](https://research.tue.nl/en/persons/mark-gj-van-den-brand)_
 
