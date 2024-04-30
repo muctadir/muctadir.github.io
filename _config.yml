@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My website
+title: Hossain Muhammad Muctadir
 
 # Your name to show in the footer
-author: Some Person
+author: Hossain Muhammad Muctadir
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "/"
+  Posts: "pages/posts"
+  Research: "pages/research"
+  Student Supervision: "pages/student_supervision"
+  Tools: "pages/tools"
 
 ################
 # --- Logo --- #
@@ -50,19 +50,18 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # email: "someone@example.com"
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # facebook: deanattali
+  github: muctadir
+  twitter: HossainMuctadir
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: muctadir
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "1065023/hossain-muctadir"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -73,10 +72,9 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+  # ORCID: 0000-0002-2090-4766
+  google-scholar: citations?user=Rf2Om1wAAAAJ
+#  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
@@ -85,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -94,16 +92,14 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
+  google-scholar: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
-
-# Add the website title to the title of every page
-title-on-all-pages: true
+url-pretty: "muctadir.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
