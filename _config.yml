@@ -24,7 +24,8 @@ navbar-links:
   Posts: "pages/posts"
   Research: "pages/research"
   Student Supervision: "pages/student_supervision"
-  Tools: "pages/tools"
+  # Tools: "pages/tools"
+  CV: "/files/Resume_Muctadir.pdf"
 
 ################
 # --- Logo --- #
