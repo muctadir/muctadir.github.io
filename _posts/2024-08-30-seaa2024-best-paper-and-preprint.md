@@ -1,0 +1,13 @@
+---
+layout: post
+title: Consistency management framework for Digital Twin models
+subtitle: Published and awarded best paper at SEAA 2024
+tags: [update, blog, publication]
+---
+
+
+Our (yt, Loek Cleophas and Mark van den Brand) paper on the consistency management of Digital Twin (DT) models was accepted at SEAA 2024 conference at Paris, France. In this research, we tried to understand how/if DT models have any special characteristics and their effect on the consistency management of models used in the development of DTs. Based on what we learned from this, we proposed a framework for the consistency management of DT models and implemented it in two case-studies demonstrating the applicability, implementability, and usefulness of the framework. 
+
+_This paper also received the best paper award at the conference._
+
+The preprint can be found [here](/files/preprints/SEAA24_Maintaining_consistency_of_digital_twin_models__exploring_the_potential_of_graph_based_approaches.pdf).
