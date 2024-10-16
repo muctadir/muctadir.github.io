@@ -10,6 +10,8 @@ I am always looking for motivated master students interested in the topic of Mod
 
 ### Current Students
 
+- (Masters, 2024) Emre Kenar. Integrating open-modelica within SMOL, a DSL for creating digital twins _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
+
 - (Masters, 2024) Yanyifan Liao. [Consistency management of a brewery digital twin](/files/assignments/2024_brewery_dt_consistency.pdf) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
 
 ### Completed projects
