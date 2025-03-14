@@ -74,7 +74,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   # ORCID: 0000-0002-2090-4766
-  google-scholar: citations?user=Rf2Om1wAAAAJ
+  google-scholar: citations?hl=en&user=Rf2Om1wAAAAJ&view_op=list_works&sortby=pubdate
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
