@@ -8,13 +8,14 @@ subtitle: Student projects I (co)supervised
 
 I am always looking for motivated master students interested in the topic of Model-Driven Software Engineering, Digital Twins, Model management, and similar. If you are looking for a masters assignment, feel free to [get in touch with me](https://research.tue.nl/en/persons/hossain-muhammad-muctadir).
 
-### Current Students
+<!-- ### Current Students
 
-- (Masters, 2024) Emre Kenar. Integrating open-modelica within SMOL, a DSL for creating digital twins _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
+- (Masters, 2024) Emre Kenar. Integrating open-modelica within SMOL, a DSL for creating digital twins _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_ -->
 
-- (Masters, 2024) Yanyifan Liao. [Consistency management of a brewery digital twin](/files/assignments/2024_brewery_dt_consistency.pdf) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
 
 ### Completed projects
+
+- (Masters, 2025) Yanyifan Liao. [Consistency management of a brewery digital twin](/files/assignments/2024_brewery_dt_consistency.pdf) _Co-supervised with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
 
 - (Masters, 2023) Judith Houdijk. [Taxonomizing and Analyzing Change Impact in Language Oriented Programming](https://research.tue.nl/en/studentTheses/taxonomizing-and-analyzing-change-impact-in-language-oriented-pro) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/) and [Andreas Wortmann](https://awortmann.github.io/)_
 
