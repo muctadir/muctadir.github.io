@@ -22,7 +22,10 @@ author: Hossain Muhammad Muctadir
 navbar-links:
   About Me: "/"
   Posts: "pages/posts"
-  Research: "pages/research"
+  Research: 
+    - Google scholar: "https://scholar.google.com/citations?hl=en&user=Rf2Om1wAAAAJ&view_op=list_works&sortby=pubdate"
+    - My thesises: "pages/research"
+    - Tools: "pages/tools"
   Student Supervision: "pages/student_supervision"
   # Tools: "pages/tools"
   CV: "/files/Resume_Muctadir.pdf"
