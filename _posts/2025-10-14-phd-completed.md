@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Thesis Completed: Making Digital Twins More Reliable
+title: PhD thesis defended
+subtitle: Making Digital Twins More Reliable
 tags: [update, blog, phd]
 ---
 
