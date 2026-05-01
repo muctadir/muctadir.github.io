@@ -15,7 +15,9 @@ I am always looking for motivated master students interested in the topic of Mod
 
 ### Completed projects
 
-- (Masters, 2025) Yanyifan Liao. [Consistency management of a brewery digital twin](/files/assignments/2024_brewery_dt_consistency.pdf) _Co-supervised with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
+- (Masters, 2025) Yanyifan Liao. [An Object-Oriented Language-Based Approach for Stream Reasoning](https://research.tue.nl/en/studentTheses/an-object-oriented-language-based-approach-for-stream-reasoning/) _Co-supervised with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
+
+- (Masters, 2025) Yanyifan Liao. [Consistency Management in Cross-domain Multi-model Digital Twins](https://research.tue.nl/en/studentTheses/consistency-management-in-cross-domain-multi-model-digital-twins/) _Co-supervised with [Loek Cleophas](https://loekcleophas.github.io/aboutme/)_
 
 - (Masters, 2023) Judith Houdijk. [Taxonomizing and Analyzing Change Impact in Language Oriented Programming](https://research.tue.nl/en/studentTheses/taxonomizing-and-analyzing-change-impact-in-language-oriented-pro) _Co-supervising with [Loek Cleophas](https://loekcleophas.github.io/aboutme/) and [Andreas Wortmann](https://awortmann.github.io/)_
 
